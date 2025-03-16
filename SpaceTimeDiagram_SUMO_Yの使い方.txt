@@ -6,7 +6,7 @@ logMaker.py
 元データ
 (resultDiagram)
 
-以上を同ディレクトリに置く．
+以上を同ディレクトリに置く．SpaceTimeDiagramMain.pyを実行する．
 元データフォルダ内にSUMOのsimから得られたデータを置く．データの項目として車両ID，time，position，speedは必須．
 
 主にいじる変数[Make_Diagram_process.py]
